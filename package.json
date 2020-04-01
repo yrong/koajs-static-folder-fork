@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "koa": "^2.11.0",
+    "koa-send": "^5.0.0"
+  },
+  "deprecated": false,
+  "description": "Static file server based on a folder instead of a single file. Node needs to be restarted in order to work through file caching.",
+  "devDependencies": {},
+  "homepage": "https://github.com/janpieterz/koajs-static-folder#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "koa-static-folder-folder",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yrong/koajs-static-folder-fork.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.6"
+}
